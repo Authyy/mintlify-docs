@@ -1,5 +1,5 @@
 {
-    "name": "authyverify.cc",
+    "name": "authy.site",
     "logo": {
         "dark": "/images/favicon.svg",
         "light": "/images/favicon.svg"
@@ -16,12 +16,12 @@
     "topbarLinks": [
         {
             "name": "Support",
-            "url": "https://discord.authyverify.cc"
+            "url": "https://discord.authy.site"
         }
     ],
     "topbarCtaButton": {
         "name": "Website",
-        "url": "https://authyverify.cc/dashboard"
+        "url": "https://authy.site/dashboard"
     },
     "tabs": [],
     "anchors": [
@@ -69,9 +69,9 @@
         }
     ],
     "footerSocials": {
-        "discord": "https://discord.authyverify.cc",
+        "discord": "https://discord.authy.site",
         "telegram": "https://t.me/authy",
-        "website": "https://authyverify.cc"
+        "website": "https://authy.site"
     },
     "modeToggle": {
         "isHidden": true,
